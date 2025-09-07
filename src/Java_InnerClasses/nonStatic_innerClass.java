@@ -9,7 +9,7 @@ package Java_InnerClasses;
 
 class outer{
     public static int val = 10;
-    public String name = "adi";
+    private String name = "adi";
 
     class Inner{
         public void execute(){
